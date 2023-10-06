@@ -30,6 +30,7 @@ Link:
 Links
 
 ### Contributing
-Contributors: Kailey Carbone, Michaela Johnson, Tahseen Shaik, Aleid van der Zel
+Contributors: Kailey Carbone, Michaela Johnson, Tahseen Shaik, Aleid van der Zel  
+
 Assisting: Ryan Coble (Instructor) and Andrew Kriger (TA)
 
