@@ -18,6 +18,8 @@ https://public.tableau.com/app/profile/aleid.van.der.zel/viz/Heart_Disease_16968
   
 1010 Worked in Google Colab to upload data, create SparkSQL queries, determine preprocessing need for machine modeling, added neural network model code
 
+1012 Worked in Google Colab: Preprocessing and neural network model
+
 ## Conclusions
 
 
