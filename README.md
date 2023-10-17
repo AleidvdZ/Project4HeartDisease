@@ -20,7 +20,12 @@ https://public.tableau.com/app/profile/aleid.van.der.zel/viz/Heart_Disease_16968
 
 1012 Worked in Google Colab: Preprocessing and neural network model
 
+
+
 ## Conclusions
+
+
+Trimmed less predictive columns (determined via Feature Importance after RandomForest) from the original dataframe, then ran the same neural network on the trimmed version. The accuracy faired much worse, shown here: https://colab.research.google.com/drive/1C7SYGXmBdGKel9R5Oayl-UzqOfUvHwTL#scrollTo=V_-C7Wqx9IaS
 
 
 ### Link to Presentation
