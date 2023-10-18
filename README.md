@@ -24,6 +24,16 @@ https://public.tableau.com/app/profile/aleid.van.der.zel/viz/Heart_Disease_16968
 
 1017 Reviewed code and finalized presentation
 
+## GitHub Repository Files  
+Proposal: Final Project- Proposal.pdf  
+Data: Heart_Disease_Prediction.csv  
+Python utilizing Google Colab Final file: Final_Project.ipynb  
+Trimmed (not optimal) Google Colab file: Trimmed_Final_Project.ipynb    
+Presentation: Heart_Disease_Prediction.pdf   
+.gitignore file = ignore Python  
+
+(WIP folder stored in progress stop points for Google Colab)
+
 ## Conclusions
 ### Modeling  
 The purpose of this project was to analyze a dataset using various models to predict heart disease.  The dataset consisted of 270 individuals classified as having heart disease based on cardiac catheterizations using 14 features.    
